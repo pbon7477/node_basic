@@ -124,4 +124,4 @@ const caja_05 = `
     </script>
 `;
 
-export default  { caja_01, caja_02, caja_03, caja_04};
+export default  { caja_01, caja_02, caja_03, caja_04, caja_05};
