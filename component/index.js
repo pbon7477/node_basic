@@ -9,6 +9,7 @@ let navBar = `
         <li><a href="/sistemas" >Sistemas</a></li>
         <li><a href="/nosotros" >Nosotros</a></li>
         <li><a href="/contacto" >Contacto</a></li>
+        <li><a href="/otro_contacto" >OtroContacto</a></li>
     </ul>
 `;
 
