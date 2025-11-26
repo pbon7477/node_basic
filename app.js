@@ -15,6 +15,7 @@ let caja_01 = components.default.caja_01;
 let caja_02 = components.default.caja_02;  
 let caja_03 = components.default.caja_03;
 let caja_04 = components.default.caja_04;  
+let caja_05 = components.default.caja_05;  
 
 
 
@@ -35,7 +36,9 @@ app.get('/nosotros', function( re, res ){
 
 app.get('/contacto', function(req, res){
     res.send(caja_04);
-
+});
+app.get('/otro_contacto', function(req, res){
+    res.send(caja_05);
 });
 
 

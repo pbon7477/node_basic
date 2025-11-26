@@ -97,7 +97,29 @@ const caja_04 = `
     </header>
     <script>
     console.log('Estas en la página Contacto'); 
-    console.log("xxx"); 
+
+    </script>
+`;
+
+const caja_05 = `
+<header>
+    <h1>Otro Contacto</h1>
+    <h2>Información de contacto</h2>
+    ${navBar}
+    <div>
+    <p>Nombre: "Benjamin"</p>    
+    <p>Apellido: "Alfaro"</p>
+    <p>Rut: 44.525.444-5</p>
+    <p>Teléfono: 065-44 44 44 44</p>
+    <p>Email: el_benjamin@sis.com</p>
+
+    
+    </div>
+    
+    </header>
+    <script>
+    console.log('Estas en la página de otro contacto Contacto'); 
+ 
     </script>
 `;
 
